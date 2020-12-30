@@ -1,5 +1,5 @@
 /*
- * Copyright © 2012-2013 Graham Sellers
+ * Copyright ?2012-2013 Graham Sellers
  *
  * This code is part of the OpenGL SuperBible, 6th Edition.
  *
@@ -28,7 +28,7 @@
 
 #include "GL/glext.h"
 
-GL3WglProc sb6GetProcAddress(const char * funcname);
-int sb6IsExtensionSupported(const char * extname);
+GL3WglProc sb6GetProcAddress(const char* funcname);
+int sb6IsExtensionSupported(const char* extname);
 
 #endif /* __SB6EXT_H__ */
